@@ -21,7 +21,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayazahmed07&show_icons=true&theme=algolia" alt="Ayaz Ahmed GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazahmed07&layout=compact&theme=algolia" alt="Ayaz Ahmed's Top Languages" />
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayazahmed07&show_icons=true&theme=radical)
+   <img src="https://github-readme-stats.vercel.app/api?username=Ayazahmed07&show_icons=true&theme=radical" alt="Ayaz Ahmed's Top Languages" />
+  
 
 </p>
 
