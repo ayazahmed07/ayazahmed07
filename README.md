@@ -19,8 +19,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayazahmed07&show_icons=true&theme=shades-of-purple" alt="Ayaz Ahmed GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazahmed07&layout=compact&theme=radical" alt="Ayaz Ahmed's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayazahmed07&show_icons=true&theme=algolia" alt="Ayaz Ahmed GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazahmed07&layout=compact&theme=algolia" alt="Ayaz Ahmed's Top Languages" />
 </p>
 
 
