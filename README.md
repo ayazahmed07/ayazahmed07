@@ -1,10 +1,4 @@
-# Hello , I’m Ayaz Ahmed 👋
-
-<p align="center">
-  <img src="https://github.com/ayazahmed07.png" alt="Ayaz Ahmed" width="150" style="border-radius:50%; border:4px solid #007bff;">
-</p>
-
-**This is Ayaz Ahmed, currently exploring Artificial Intelligence, Modern Python and Agentic AI...**
+**Hellow This is Ayaz Ahmed, currently exploring Artificial Intelligence, Modern Python and Agentic AI...**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayaz-blue)](https://www.linkedin.com/in/ayaz-ahmed-074513a8)
 [![GitHub](https://img.shields.io/badge/GitHub-ayazahmed07-green)](https://github.com/ayazahmed07)
