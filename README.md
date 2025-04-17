@@ -1,4 +1,4 @@
-**Hellow This is Ayaz Ahmed, currently exploring Artificial Intelligence, Modern Python and Agentic AI under Governer Sindh Initiative...**
+**Hello! I'm Ayaz Ahmed, a passionate developer from Pakistan. Currently, I'm exploring Artificial Intelligence, Modern Python, and Agentic AI under the Governor Sindh Initiative. I specialize in JavaScript and TypeScript, and I love creating projects like currency converters and task management apps. Let's connect and build something amazing together!**
 
 <h3 align="center">A passionate developer from Pakistan</h3>
 
