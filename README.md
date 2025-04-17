@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C896&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=Hello!+I'm+Ayaz+Ahmed%2C+a+passionate+developer+from+Pakistan.;Currently%2C+I'm+exploring+Artificial+Intelligence%2C+Modern+Python%2C+and+Agentic+AI.;Part+of+the+Governor+Sindh+Initiative.;Specialized+in+JavaScript+and+TypeScript.;Love+creating+currency+converters+%26+task+apps.;Let's+connect+and+build+something+amazing+together!" />
-</p>
 
 
 <h3 align="center">A passionate developer from Pakistan</h3>
@@ -31,7 +28,7 @@
 
 - 📫 How to reach me **ayazahmed824@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
